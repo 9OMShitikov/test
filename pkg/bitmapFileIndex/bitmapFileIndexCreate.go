@@ -2,7 +2,7 @@ package bitmapFileIndex
 
 import (
 	"fmt"
-	roaringIndex "github.com/neganovalexey/bitmap-search/pkg/roaringIndex"
+	roaringIndex "github.com/9OMShitikov/test/pkg/roaringIndex"
 	"io/ioutil"
 	"strings"
 	"unicode"

@@ -1,7 +1,7 @@
 package bitmapFileIndex
 
 import (
-	"github.com/neganovalexey/bitmap-search/pkg/roaringIndex"
+	"github.com/9OMShitikov/test/pkg/roaringIndex"
 )
 
 type FileIndex struct {
