@@ -1,4 +1,4 @@
-module github.com/neganovalexey/bitmap-search
+module github.com/9OMShitikov/test
 
 go 1.14
 
